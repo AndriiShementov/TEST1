@@ -1,6 +1,5 @@
 package com.example.andreyshem.test1;
 
-
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.support.v4.view.ViewPager;
